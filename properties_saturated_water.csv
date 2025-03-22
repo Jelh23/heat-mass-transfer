@@ -1,4 +1,4 @@
-Temperature T (C);Saturation Pressure Psat (kPa);Density Liquid (kg/m3);Density Vapor (kg/m3);Enthalpy of Vaporization hfg (kJ/kg);Specific Heat cp Liquid (J/kgK);Specific Heat cp Vapor (J/kgK);Thermal Conductivity k Liquid (W/mK);Thermal Conductivity k Vapor (W/mK);Dynamic Viscosity Liquid (kg/ms);Dynamic Viscosity Vapor (kg/ms;Prandtl Number Pr Liquid;Prandtl Number Pr Vapor;Volume Expansion Coefficient beta Liquid (1/K)
+Temperature T (C);Saturation Pressure Psat (kPa);Density Liquid (kg/m3);Density Vapor (kg/m3);Enthalpy of Vaporization hfg (kJ/kg);Specific Heat cp Liquid (J/kgK);Specific Heat cp Vapor (J/kgK);Thermal Conductivity k Liquid (W/mK);Thermal Conductivity k Vapor (W/mK);Dynamic Viscosity Liquid (kg/ms);Dynamic Viscosity Vapor (kg/ms);Prandtl Number Pr Liquid;Prandtl Number Pr Vapor;Volume Expansion Coefficient beta Liquid (1/K)
 0,01;0,6113;999,8;0,0048;2501;4217;1854;561;0,0171;1,792E-03;9,22E-06;13,5;1;-6,8E-05
 5;0,8721;999,9;0,0068;2490;4205;1857;571;0,0173;1,519E-03;9,34E-06;11,2;1;1,5E-05
 10;1,2276;999,7;0,0094;2478;4194;1862;580;0,0176;1,307E-03;9,46E-06;9,45;1;7,33E-04
