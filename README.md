@@ -19,6 +19,8 @@ This repository contains data and calculations for heat and mass transfer proble
 3. View the results, which include various properties such as kinematic viscosity, thermal diffusivity, etc., for the chosen fluid.
 
 
-## Credits
+## Credits and Disclaimer
 
-This project was assisted by [ChatGPT](https://openai.com/chatgpt) for providing support with Python code, interpolation techniques, and GitHub integration.
+This repository was developed for my **Heat Transfer** class. ChatGPT was utilized to assist with Python programming, interpolation techniques, and GitHub integration throughout the project.
+
+This project is intended to demonstrate understanding of the course material. The code may include contributions from ChatGPT, aimed at supporting problem-solving and coding tasks. This repository is not intended to represent a polished, professional-level submission.
