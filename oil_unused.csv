@@ -1,5 +1,4 @@
-Temperature T (C);Density (kg/m3);"Specific Heat
-cp (J/kgK)";Thermal Conductivity k (W/mK);Thermal Diffusivity (m2/s);Dynamic Viscosity (kg/ms);Kinematic Viscosity (m2/s);Prandtl Number Pr;Volume Expansion Coeff, (1/K)
+Temperature T (C);Density (kg/m3);"Specific Heat cp (J/kgK)";Thermal Conductivity k (W/mK);Thermal Diffusivity (m2/s);Dynamic Viscosity (kg/ms);Kinematic Viscosity (m2/s);Prandtl Number Pr;Volume Expansion Coeff, (1/K)
 0;899,0;1797;0,1469;9,097E-08;3,814;4,242E-03;46636;0,00070
 20;888,1;1881;0,1450;8,68E-08;0,8374;9,429E-04;10863;0,00070
 40;876,0;1964;0,1444;8,391E-08;0,2177;2,485E-04;2962;0,00070
