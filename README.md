@@ -5,7 +5,6 @@
 ## Colab Notebook
 
 [Properties tables](https://colab.research.google.com/drive/1xmvhjNzo625Tm6akyEM9XyQpJfHbZ1O2?usp=sharing)
-[Transient temperature]()
 
 ### Features:
 - **Interpolation of Fluid Properties**: Calculates properties like thermal conductivity, viscosity, thermal diffusivity, and more.
